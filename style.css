@@ -1,4 +1,12 @@
 h1 {
 	background-color: purple;
 	color: white;
+	opacity: 50%;
+	min-width: 400px;
+	max-width: 400px;
+	min-height: 300px;
+	max-height: 300px;
+	align-content: center;
+	outline: 2px solid blue;
+	outline-style: double;
 }
